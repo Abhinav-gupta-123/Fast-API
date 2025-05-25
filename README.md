@@ -1,5 +1,3 @@
-Here's a **natural, attractive, and beginner-friendly `README.md`** template for your FastAPI projects. This will help you share your learning journey, code, and insights from **scratch to advanced**, in a way that’s **inspiring and easy to follow for others**. It's designed to make your repo stand out and feel like a learning resource, not just a code dump.
-
 ---
 
 ````markdown
