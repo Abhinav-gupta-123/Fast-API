@@ -113,12 +113,8 @@ If you're learning too, feel free to:
 ---
 
 > Made with ❤️ by Abhinav Gupta
+
+
 > FastAPI | Machine Learning | Python | Backend Engineering
 
-```
-
----
-
-✅ Just paste this as your `README.md` in the root of your GitHub repo.  
-Let me know if you'd like help adding badges (like build, Python version, stars, etc.) or GitHub Pages for a hosted documentation version.
 ```
