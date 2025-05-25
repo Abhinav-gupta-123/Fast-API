@@ -101,10 +101,9 @@ If you're learning too, feel free to:
 
 ## 📌 Let's Connect!
 
-* 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-* 🐦 [Twitter](https://twitter.com/yourhandle)
-* 📬 [Email](mailto:youremail@example.com)
-* 📂 [GitHub](https://github.com/yourusername)
+* 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhinav-gupta-34a1b2349))
+* 📬 [Email](abhinavg963@gmail.com)
+* 📂 [GitHub]([https://github.com/yourusername](https://github.com/Abhinav-gupta-123))
 
 ---
 
