@@ -107,7 +107,7 @@ If you're learning too, feel free to:
 
 | Date        | Update                                          |
 | ----------- | ----------------------------------------------- |
-| May 2025    | Started the journey and created Hello World API |
+| May 2025    | Started the journey                             |
 | Coming soon | CRUD App with SQLite & JWT-based Auth           |
 
 ---
